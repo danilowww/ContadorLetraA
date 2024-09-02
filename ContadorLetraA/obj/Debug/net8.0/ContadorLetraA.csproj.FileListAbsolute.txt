@@ -1,0 +1,14 @@
+C:\Users\Danilo\source\repos\ContadorLetraA\ContadorLetraA\bin\Debug\net8.0\ContadorLetraA.exe
+C:\Users\Danilo\source\repos\ContadorLetraA\ContadorLetraA\bin\Debug\net8.0\ContadorLetraA.deps.json
+C:\Users\Danilo\source\repos\ContadorLetraA\ContadorLetraA\bin\Debug\net8.0\ContadorLetraA.runtimeconfig.json
+C:\Users\Danilo\source\repos\ContadorLetraA\ContadorLetraA\bin\Debug\net8.0\ContadorLetraA.dll
+C:\Users\Danilo\source\repos\ContadorLetraA\ContadorLetraA\bin\Debug\net8.0\ContadorLetraA.pdb
+C:\Users\Danilo\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0\ContadorLetraA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0\ContadorLetraA.AssemblyInfoInputs.cache
+C:\Users\Danilo\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0\ContadorLetraA.AssemblyInfo.cs
+C:\Users\Danilo\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0\ContadorLetraA.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0\ContadorLetraA.dll
+C:\Users\Danilo\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0\refint\ContadorLetraA.dll
+C:\Users\Danilo\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0\ContadorLetraA.pdb
+C:\Users\Danilo\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0\ContadorLetraA.genruntimeconfig.cache
+C:\Users\Danilo\source\repos\ContadorLetraA\ContadorLetraA\obj\Debug\net8.0\ref\ContadorLetraA.dll
